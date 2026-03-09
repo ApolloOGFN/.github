@@ -4,4 +4,4 @@
 
 We are a OG Fortnite project hosting 26.30.
 
-Feel free to join us [here!](https://discord.gg/daMtsxUdmm)
+Feel free to join us soon!
