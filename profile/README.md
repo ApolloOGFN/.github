@@ -1,7 +1,3 @@
 ## Hi there 👋
 
-# This is Project Apollo.
-
-We are a OG Fortnite project hosting 26.30.
-
-Feel free to join us soon!
+# This is skidder.pw's backup repo, idk why this exists but its a old org.
